@@ -176,12 +176,6 @@ cursor: pointer;
 input[type=submit]:hover {
 background-color: rgb(82, 61, 55);
 }
-        
-div {
-border-radius: 5px;
-background-color: #ccc;
-padding: 20px;
-}
 
 .form-kontakty {
     border-radius: 5px;
